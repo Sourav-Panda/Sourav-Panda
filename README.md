@@ -10,7 +10,8 @@
 
 - 📫 How to reach me **rsouravpa@outlook.com**
 
-- 📄 Know about my experiences [Sourav_Resume.pdf](https://github.com/Sourav-Panda/Sourav-Panda/blob/724b068dbcd515d26c8bc774337a2970f8c5ae38/Sourav_panda.pdf)
+- 📄 Know about my experiences [Sourav_Resume.pdf](https://github.com/Sourav-Panda/Sourav-Panda/blob/34b87ab9cbc97e153c201dc81cba8082c7119506/sourav_panda.pdf)
+
 
 
 <h3 align="left">Connect with me:</h3>
