@@ -12,7 +12,7 @@
 
 - 📄 Know about my experiences [Sourav_Resume.pdf](https://github.com/Sourav-Panda/Sourav-Panda/blob/34b87ab9cbc97e153c201dc81cba8082c7119506/sourav_panda.pdf)
 
-<pre>- Certifications:
+<h3 align="center">Certifications:</h3>
 
   - [Az900:](https://github.com/Sourav-Panda/Sourav-Panda/blob/7667cb46aa34fdc867cbdda2a7f941e84475ec77/Microsoft_Certified_Professional_Certificate_0.pdf) Microsoft Certified Azure Fundamentals.
   - [Python:](https://github.com/Sourav-Panda/Sourav-Panda/blob/7667cb46aa34fdc867cbdda2a7f941e84475ec77/Python%20foro%20DataScience%20and%20Machine%20Learning.pdf) Python for Data Science and Machine Learning Bootcamp.
