@@ -15,8 +15,10 @@
 <h3 align="center">Certifications:</h3>
 
   - [Az900:](https://github.com/Sourav-Panda/Sourav-Panda/blob/7667cb46aa34fdc867cbdda2a7f941e84475ec77/Microsoft_Certified_Professional_Certificate_0.pdf) Microsoft Certified Azure Fundamentals.
+    
   - [Python:](https://github.com/Sourav-Panda/Sourav-Panda/blob/7667cb46aa34fdc867cbdda2a7f941e84475ec77/Python%20foro%20DataScience%20and%20Machine%20Learning.pdf) Python for Data Science and Machine Learning Bootcamp.
-  - [LLM:](https://github.com/Sourav-Panda/Sourav-Panda/blob/7667cb46aa34fdc867cbdda2a7f941e84475ec77/LLM%20cert.pdf) Generative AI with Large Language Models.<pre>
+    
+  - [LLM:](https://github.com/Sourav-Panda/Sourav-Panda/blob/7667cb46aa34fdc867cbdda2a7f941e84475ec77/LLM%20cert.pdf) Generative AI with Large Language Models.
 
 
 
