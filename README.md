@@ -2,7 +2,7 @@
 <h3 align="center">A passionate and curious Data Scientist</h3>
 
 
-- 🌱 I’m currently learning about **LLM's**
+- 🌱 I’m currently learning about **3d Machine Learning**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Sourav-Panda](https://github.com/Sourav-Panda)
 
