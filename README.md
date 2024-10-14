@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **rsouravpa@outlook.com**
 
-- 📄 Know about my experiences [Sourav_Resume.pdf](https://github.com/Sourav-Panda/Sourav-Panda/blob/main/sourav_panda_Resume.docx)
+- 📄 Know about my experiences [Sourav_Resume.pdf](https://github.com/Sourav-Panda/Sourav-Panda/blob/main/sourav_panda_Resume.pdf)
   
 - Certifications:
 
